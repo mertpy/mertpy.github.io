@@ -1,8 +1,5 @@
 # 🎮 Mert Sağlam | Mobil Oyun Geliştirici
 
-Google Play Store üzerinde bağımsız olarak mobil oyun projeleri üretiyor ve geliştiriyorum. Kullanıcı deneyimi yüksek, eğlenceli ve sürdürülebilir oyunlar tasarlamak en büyük tutkum!
-
----
 
 ### 🚀 Şu Anda Ne Yapıyorum?
 * 🧩 Android platformu için bulmaca ve arcade oyun projeleri geliştiriyorum.
